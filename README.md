@@ -31,11 +31,11 @@ python wheel_of_fortune_game.py
 ```
 ## File Structure
 ```
-├── wheel_of_fortune_game.py
+├── settings_presets
+    └── SHORT ROUND.pkl
 ├── README.md
 ├── example_gameplay.gif
 ├── phrases.txt
-├── wheel_widgets.txt
-└── settings_presets
-    └── SHORT ROUND.pkl
+├── wheel_of_fortune_game.py
+└── wheel_widgets.txt
 ```
