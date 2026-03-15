@@ -1,4 +1,6 @@
 # Wheel-of-Fortune-Game
+<img src="example_gameplay.gif" width="400"/>
+
 ## About the Project
 I built this as my programming final for NCEA Level 3 Digital Technologies in **May, 2025**.
 
