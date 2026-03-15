@@ -33,7 +33,7 @@ python wheel_of_fortune_game.py
 ```
 ## File Structure
 ```
-├── settings_presets
+├── settings_presets/
     └── SHORT ROUND.pkl
 ├── README.md
 ├── example_gameplay.gif
