@@ -7,10 +7,12 @@ I built this as my programming final for NCEA Level 3 Digital Technologies in **
 This game was built with **Python** and uses techniques such as:
 - **Object Oriented Programming**, 
 - **Static and Class Methods**, 
-- **File Input/Output**, 
+- **File Input/Output**,
+    - **Pickling**
 - **Error Handling**, 
 - **Input Validation**, 
 - **String Manipulation**
+- **Pep-8 Style Compliance**
 
 The game handles 2-7 players and can be played for any amount of rounds.
 
