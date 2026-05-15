@@ -35,6 +35,7 @@ python wheel_of_fortune_game.py
 ```
 ## File Structure
 ```
+Wheel-of-Fortune-Game/
 ├── settings_presets/
     └── SHORT ROUND.pkl
 ├── README.md
